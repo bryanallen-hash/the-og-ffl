@@ -1,0 +1,1 @@
+window.FFL_DATA=window.FFL_DATA||{};window.FFL_DATA.homeSummary={"topPlayer":{"PlayerName":"Tom Brady","Position":"QB","RegularSeasonPoints":4421.7},"topSeason":{"PlayerName":"Brett Favre","Position":"QB","Season":1996,"RegularSeasonPoints":361.0},"topGame":{"PlayerName":"Clinton Portis","Position":"RB","Season":2003,"Week":14,"PlayerPoints":55.0}};
