@@ -1,0 +1,59 @@
+SourceSystem,SourceName,Position,OldMasterPlayerID,NewMasterPlayerID,CanonicalPlayerName,Action
+GoogleSheets,A.Franks,K,P00001,P00001,Andrew Franks,Canonical display-name cleanup
+GoogleSheets,B.Sankey,RB,P00099,P00099,Bishop Sankey,Canonical display-name cleanup
+GoogleSheets,C.Meredith,WR,P00207,P00207,Cameron Meredith,Canonical display-name cleanup
+GoogleSheets,C.West,RB,P00210,P00210,Charcandrick West,Canonical display-name cleanup
+GoogleSheets,C.Michael,RB,P00208,P00208,Christine Michael,Canonical display-name cleanup
+GoogleSheets,C.Walford,TE,P00209,P00209,Clive Walford,Canonical display-name cleanup
+GoogleSheets,C.Gillmore,TE,P00199,P00199,Crockett Gillmore,Canonical display-name cleanup
+GoogleSheets,D.Robinson,RB,P00340,P00340,Denard Robinson,Canonical display-name cleanup
+GoogleSheets,D.Carrier,TE,P00335,P00335,Derek Carrier,Canonical display-name cleanup
+GoogleSheets,D.Stanton,QB,P00341,P00341,Drew Stanton,Canonical display-name cleanup
+GoogleSheets,G.Barnidge,TE,P00555,P00555,Gary Barnidge,Canonical display-name cleanup
+GoogleSheets,J.Langford,RB,P00635,P00635,Jeremy Langford,Canonical display-name cleanup
+GoogleSheets,J.Clausen,QB,P00628,P00628,Jimmy Clausen,Canonical display-name cleanup
+GoogleSheets,J.Manziel,QB,P00636,P00636,Johnny Manziel,Canonical display-name cleanup
+GoogleSheets,K.Brindza,K,P00849,P00849,Kyle Brindza,Canonical display-name cleanup
+GoogleSheets,L.Green,TE,P00913,P00913,Ladarius Green,Canonical display-name cleanup
+GoogleSheets,M.Mitchell,WR,P00954,P00954,Malcolm Mitchell,Canonical display-name cleanup
+GoogleSheets,M.Jones,RB,P00953,P00953,Matt Jones (RB),Canonical display-name cleanup
+GoogleSheets,P.Lynch,QB,P01152,P01152,Paxton Lynch,Canonical display-name cleanup
+GoogleSheets,Q.Patton,WR,P01190,P01190,Quinton Patton,Canonical display-name cleanup
+GoogleSheets,R.Kelley,RB,P01200,P01200,Robert Kelley,Canonical display-name cleanup
+GoogleSheets,R.Aguayo,K,P01199,P01199,Roberto Aguayo,Canonical display-name cleanup
+GoogleSheets,S.Coates,WR,P01295,P01295,Sammie Coates,Canonical display-name cleanup
+GoogleSheets,S.Draughn,RB,P01296,P01296,Shaun Draughn,Canonical display-name cleanup
+GoogleSheets,T.Rawls,RB,P01381,P01381,Thomas Rawls,Canonical display-name cleanup
+GoogleSheets,T.Benjamin,WR,P01374,P01374,Travis Benjamin,Canonical display-name cleanup
+GoogleSheets,W.Tye,TE,P01521,P01521,Will Tye,Canonical display-name cleanup
+GoogleSheets,Z.Hocker,K,P01546,P01546,Zach Hocker,Canonical display-name cleanup
+LegacySQL,Chad Ochocinco,WR,P00248,P00248,Chad Johnson (Ochocinco),Canonical display-name cleanup; same player identity
+GoogleSheets,Cal.Johnson,WR,P00215,P00219,Calvin Johnson,Merged alias into existing player
+GoogleSheets,C.HulkHogan,WR,P00200,P00280,Chris Hogan,Merged alias into existing player
+GoogleSheets,H.Hogan,WR,P00594,P00280,Chris Hogan,Merged alias into existing player
+GoogleSheets,De.Williams,RB,P00407,P00410,DeAngelo Williams,Merged alias into existing player
+GoogleSheets,De.Jackson,WR,P00405,P00439,DeSean Jackson,Merged alias into existing player
+GoogleSheets,De.Walker,TE,P00406,P00416,Delanie Walker,Merged alias into existing player
+GoogleSheets,Dmy.Thomas,WR,P00466,P00420,Demaryius Thomas,Merged alias into existing player
+GoogleSheets,F.Lazy,RB,P00544,P00513,Eddie Lacy,Merged alias into existing player
+GoogleSheets,E.Elliot,RB,P00505,P00543,Ezekiel Elliott,Merged alias into existing player
+GoogleSheets,H.Hunter,TE,P00595,P00611,Hunter Henry,Merged alias into existing player
+GoogleSheets,J.Charal,RB,P00627,P00676,Jamaal Charles,Merged alias into existing player
+GoogleSheets,Ja.Jones,WR,P00639,P00686,James Jones,Merged alias into existing player
+GoogleSheets,Jo.Brown,WR,P00768,P00781,John Brown,Merged alias into existing player
+GoogleSheets,JohnBrown,WR,P00790,P00781,John Brown,Merged alias into existing player
+GoogleSheets,Ju.Jones,WR,P00831,P00834,Julio Jones,Merged alias into existing player
+GoogleSheets,Mal.Floyd,WR,P00957,P00959,Malcom Floyd,Merged alias into existing player
+GoogleSheets,Mi.Floyd,WR,P01026,P01034,Michael Floyd,Merged alias into existing player
+GoogleSheets,Rsh.Matthews,WR,P01279,P01245,Rishard Matthews,Merged alias into existing player
+GoogleSheets,R.Wison,QB,P01201,P01283,Russell Wilson,Merged alias into existing player
+GoogleSheets,S.Shephard,WR,P01298,P01357,Sterling Shepard,Merged alias into existing player
+GoogleSheets,S.Smith,WR,P01299,P01367,Steve Smith Sr.,Merged alias into existing player
+GoogleSheets,"S.Smith, Sr.",WR,P01300,P01367,Steve Smith Sr.,Merged alias into existing player
+GoogleSheets,S.Haushka,K,P01297,P01371,Steven Hauschka,Merged alias into existing player
+GoogleSheets,Ter.Williams,WR,P01405,P01409,Terrance Williams,Merged alias into existing player
+GoogleSheets,Trry.Smith,WR,P01483,P01452,Torrey Smith,Merged alias into existing player
+GoogleSheets,T.Montgomery,WR,P01380,P01490,Ty Montgomery,Merged alias into existing player
+GoogleSheets,Ty.Williams,WR,P01491,P01506,Tyrell Williams,Merged alias into existing player
+GoogleSheets,D.Brown,TE,P00431,P01564,Daniel Brown,Split incorrect automatic identity match
+GoogleSheets,K.Williams,RB,P00912,P01563,Karlos Williams,Split incorrect automatic identity match
